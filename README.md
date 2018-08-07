@@ -1,2 +1,0 @@
-# MyBooks
-Record some books.
